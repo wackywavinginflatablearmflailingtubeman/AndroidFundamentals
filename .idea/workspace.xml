@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34465814-80e4-4926-a391-ee09c8cf4e6a" name="Default Changelist" comment="hello">
-      <change afterPath="$PROJECT_DIR$/HelloToast/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloToast/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="34465814-80e4-4926-a391-ee09c8cf4e6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/androidTest/java/com/example/hellotoast/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/java/com/example/hellotoast/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/app/src/test/java/com/example/hellotoast/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloToastChallenge/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,6 +102,11 @@
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thinclock06\AndroidStudioProjects\AndroidFundamentals" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -96,14 +137,20 @@
       <option name="project" value="LOCAL" />
       <updated>1556374238873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="helloToast">
+      <created>1556377537482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556377537482</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.32982087" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32982087" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -114,7 +161,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Palette&#9;" />
@@ -122,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <MESSAGE value="helloToast" />
+    <option name="LAST_COMMIT_MESSAGE" value="helloToast" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
